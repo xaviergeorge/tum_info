@@ -1,4 +1,4 @@
-![Build Website](https://github.com/mcmikecreations/tum_info/actions/workflows/jekyll-gh-pages.yml/badge.svg)
+![Build Website](https://github.com/mcmikecreations/tum_info/actions/workflows/jekyll-gh-pages.yml/badge.svg) 
 
 A bunch of useful information I've collected while studying at the Technical University of Munich.
 
